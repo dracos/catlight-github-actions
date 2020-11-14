@@ -1,0 +1,14 @@
+{
+  "username": "",
+  "token": "",
+  "orgs": [
+    {
+      "id": "",
+      "name": "",
+      "buildDefinitions": [
+          { "id": "", "name": "" },
+          { "id": "", "name": "" }
+      ]
+    }
+  ]
+}
